@@ -1,0 +1,28 @@
+{
+  "width": 800,
+  "height": 640,
+  "fps": 60,
+  "fs": false,
+  "controlScheme": 1,
+  "controls": {
+    "up": [
+      87,
+      38
+    ],
+    "down": [
+      83,
+      40
+    ],
+    "left": [
+      65,
+      37
+    ],
+    "right": [
+      68,
+      39
+    ]
+  },
+  "startWithMap": false,
+  "startMapLoc": "",
+  "seed": 37
+}

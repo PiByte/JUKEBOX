@@ -1,0 +1,122 @@
+Player:
+    Constructives:
+        * Player
+        * Builders
+        * Specialist Builders
+        * Advanced Builders
+    Destructives:
+        * Tanks
+        * Fighter Jets
+        * Fighter Boats
+        * Missile Silos
+        * Minesplaneters
+        * Remote Bombs
+        * Nukes Silos
+    Spies:
+        * RCs
+        * Drones
+        * Satellites
+        * Speedboats
+        * Minedetectors
+        * Enemy Detectors
+Enemies:
+    Destructives:
+        * Pacers
+        * Tanks
+        * Fighter Jets
+        * Fighter Boats
+        * Minesplaneters
+Buildings:
+    Constructives:
+        * Factory
+        * Heavy Arms Factory
+        * Bio & Nuclear Lab
+    Energy:
+        * Solarpanels
+        * Gas Refineries
+        * Waterpump
+        * Wind Turbines
+        * Nuclear Power & Enrichment Station
+Minerals and Elements:
+    Elements:
+        * Water
+        * Rock
+        * Iron
+        * Carbon
+        * Lava
+        * Methane Gas
+        * Uranium
+Tiles:
+    Ground:
+        * Grass
+        * Water
+        * Lava
+        * Asphalt
+        * Concrete
+        * Sand
+        * Snow
+        * Swamp
+    Objects:
+        * Rocks
+        * Iron Ore
+        * Uranium Ore
+        * Carbon
+        * Methane Vent
+        * Trees
+        * Bush
+    Buildings:
+        * Homebase
+        * Enemy Base
+        * Enemy Major Base
+        * Enemy Final Base
+        * Factory
+        * Heavy Arms Factory
+        * Bio & Nuclear Lab
+        * Solarpanels
+        * Gas Refineries
+        * Waterpump
+        * Wind Turbines
+        * Nuclear Power & Enrichment Station
+        * Bridge
+        * Missile Silos
+        * Nukes Silos
+    Player:
+        * Builders
+        * Specialist Builders
+        * Advanced Builders
+        * Tanks
+        * Fighter Jets
+        * Fighter Boats
+        * Minesplaneters
+        * Remote Bombs
+        * RCs
+        * Drones
+        * Satellites
+        * Speedboats
+        * Minedetectors
+        * Enemy Detectors
+        * Nuclear Detection Device (NDD)
+    Enemies:
+        * Pacers
+        * Tanks
+        * Fighter Jets
+        * Fighter Boats
+        * Minesplaneters
+    Misc:
+        * Destroyed Vehicle
+        * Rubble
+        * Crushed Greenary
+        * Tracks
+Game:
+    Modes:
+        * Story Mode
+        * Battle Mode
+        * Forever Mode
+        * Sandbox Mode
+    Environments:
+        * Plain
+        * Forest
+        * Dense Forest
+        * Swamp
+        * Desert
+        * Snow
